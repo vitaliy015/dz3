@@ -1,0 +1,161 @@
+
+
+.container {
+  width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.header-title {
+padding-top: 68px;
+font-style: normal;
+font-weight: normal;
+font-size: 80px;
+line-height: 94px;
+}
+
+.header-link-title {
+  color: #000000;
+}
+
+.header-span {
+   color: #4BCAFF;
+}
+
+.header-menu {
+  padding-top: 38px;
+}
+
+.header-menu-list {
+  display: flex;
+  justify-content: center;
+  background-color: #35444F;
+}
+
+.header-list {
+  padding: 26px 35px 19px 32px;
+  border-right: solid 1px #ffffff;
+  border-left: solid 1px #ffffff;
+}
+.header-list:hover {
+  background: #222F3A;
+}
+
+.header-link {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 28px;
+  color: #ffffff;
+}
+
+.header-list {
+  display: inline-block;
+  list-style: none;
+}
+
+.main {
+  margin-top: 44px;
+}
+
+.section-main {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  margin-left: 52px;
+}
+
+.box-img {
+Width: 885px;
+Height: 529px; 
+display: flex;
+justify-content: center;
+align-items: center;
+border: 1px solid #000000;
+margin-bottom: 37px;
+}
+
+.nav-main-list {
+  list-style-type: none;
+  border: 1px solid #000000;
+  width: 345px; 
+  height: 400px;
+  padding: 0;
+}
+
+.main-list {
+padding: 26px 0px 26px 44px;
+}
+.main-list:hover {
+transform: translateX(+27px);
+}
+
+.main-link {
+font-style: normal;
+font-weight: normal;
+font-size: 27px;
+line-height: 27px;
+color: #485863;
+}
+
+
+.main-text {
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 24px;
+color: #2C2C2C;
+}
+
+
+.footer {
+  margin-top: 54px;
+  padding-bottom: 30px;
+}
+
+.nav-footer-list {
+  margin-left: 40px;
+  padding: 0px;
+  display: flex;
+  list-style-type: none;
+}
+
+.footer-nav {
+  background: rgba(99, 105, 110, 0.48);
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.footer-link {
+  color: #0C1927;
+  font-size: 28px;
+  line-height: 28px;
+}
+.footer-link:hover {
+  text-decoration: underline;
+  color: #3181A6;
+}
+
+.footer-list {
+  padding: 16px;
+}
+
+
+.footer-text {
+  font-size: 22px;
+  line-height: 22px;
+  font-style: normal;
+  font-weight: normal;
+  color: #000000;
+  padding-right: 40px;
+}
+
+.container-2 {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row-reverse;
+}
+
+
+
